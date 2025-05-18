@@ -1,0 +1,21 @@
+[
+    {
+      "titulo": "Notícias de Hoje",
+      "descricao": "Lorem ipsum dolor sit amet consectetur adipisicing elit...",
+      "imagem": "https://picsum.photos/500/250",
+      "conteudo": "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea corporis quasi expedita tenetur illo nobis accusamus corrupti provident, eveniet eum beatae assumenda voluptas, necessitatibus id perferendis facere atque praesentium quidem porro deserunt maiores doloremque. Distinctio voluptatum veritatis optio ratione possimus recusandae quam reiciendis officia ipsa ullam, nemo nostrum facilis dolorem ut qui nobis, sed quo, fuga aperiam necessitatibus repellendus? Quidem, molestiae beatae porro, placeat deserunt quia maiores cupiditate quo veritatis voluptates quis cum nam laudantium autem distinctio quae iure. Iusto id consequuntur delectus. Eius magnam reprehenderit placeat tempore corrupti iusto quis explicabo eligendi dolorem consequatur. Libero atque provident et ab.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent sed ultrices nisl.</p><p>Aliquam erat volutpat. Cras feugiat sem vel orci eleifend, a facilisis mauris mattis.</p>"
+    },
+    {
+      "titulo": "Esportes: Grande Final",
+      "descricao": "O Cruzeiro chegou à final do Mundial depois de um jogo emocionante...",
+      "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqy0D7XoFvaFaaLTUO3kWTaWj_MQHg8bnSxg&s",
+      "conteudo": "<p>O jogo foi tenso do início ao fim, com chances para ambos os lados.</p><p>O Cruzeiro garantiu sua vaga na final com um gol nos acréscimos.</p><p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea corporis quasi expedita tenetur illo nobis accusamus corrupti provident, eveniet eum beatae assumenda voluptas, necessitatibus id perferendis facere atque praesentium quidem porro deserunt maiores doloremque. Distinctio voluptatum veritatis optio ratione possimus recusandae quam reiciendis officia ipsa ullam, nemo nostrum facilis dolorem ut qui nobis, sed quo, fuga aperiam necessitatibus repellendus? Quidem, molestiae beatae porro, placeat deserunt quia maiores cupiditate quo veritatis voluptates quis cum nam laudantium autem distinctio quae iure. Iusto id consequuntur delectus. Eius magnam reprehenderit placeat tempore corrupti iusto quis explicabo eligendi dolorem consequatur. Libero atque provident et ab.</p>"
+    },
+    {
+      "titulo": "Prefeito inaugura obra",
+      "descricao": "Na cidade de Betim, muitas mudanças estão acontecendo...",
+      "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR55FJxab8Y6zNOaK-GuXzgWEcXDEKSE6wgQ&s",
+      "conteudo": "<p>O prefeito anunciou a entrega de uma nova escola e melhorias no transporte público.</p><p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea corporis quasi expedita tenetur illo nobis accusamus corrupti provident, eveniet eum beatae assumenda voluptas, necessitatibus id perferendis facere atque praesentium quidem porro deserunt maiores doloremque. Distinctio voluptatum veritatis optio ratione possimus recusandae quam reiciendis officia ipsa ullam, nemo nostrum facilis dolorem ut qui nobis, sed quo, fuga aperiam necessitatibus repellendus? Quidem, molestiae beatae porro, placeat deserunt quia maiores cupiditate quo veritatis voluptates quis cum nam laudantium autem distinctio quae iure. Iusto id consequuntur delectus. Eius magnam reprehenderit placeat tempore corrupti iusto quis explicabo eligendi dolorem consequatur. Libero atque provident et ab.</p><p>Moradores comemoraram o avanço na infraestrutura local.</p>"
+    }
+  ]
+  
